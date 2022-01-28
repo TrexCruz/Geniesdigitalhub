@@ -1,5 +1,3 @@
-# agency-landing-page
+# Genies Digital Hub
  
-LIVE: https://agency-landing-page.web.app/
- 
-Digital marketing agency landing page template using Bootstrap.
+Digital Marketing Company that focuses on bringing you value.
